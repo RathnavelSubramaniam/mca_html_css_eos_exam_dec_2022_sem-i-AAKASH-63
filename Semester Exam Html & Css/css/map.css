@@ -1,0 +1,14 @@
+
+.map img{
+    float: left;
+    width: 50%;
+    height: 60%;
+}
+aside a{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+a:hover{
+    color: violet;
+}
